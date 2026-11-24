@@ -12,9 +12,11 @@ Me chamo Gabriela Fernandes, tenho 30 anos e sou formada em Desenvolvimento de J
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4" />
 </a>
   
+
 <a href="https://www.linkedin.com/in/gabriela-fernandes-840647449/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4&cacheSeconds=3600" alt="LinkedIn" />
 </a>
+
 
   <a href="https://www.instagram.com/_polarizada/">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" />
