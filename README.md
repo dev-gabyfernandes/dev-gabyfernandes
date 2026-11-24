@@ -37,7 +37,7 @@ Me chamo Gabriela Fernandes, tenho 30 anos e sou formada em Desenvolvimento de J
 </p>
 
 ---
-
+<!-- COMENTADO
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -155,8 +155,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 <br/>
 <br/>
+-->
 
-### 🤖 Estatísticas
+<!-- ### 🤖 Estatísticas -->
 ### 📊 Estatísticas
 
 <p>
