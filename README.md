@@ -179,6 +179,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabyfern
 
 </p>
 
+<!--
 #
 
 <picture align="center">
@@ -186,3 +187,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gabyfern
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-gabyfernandes/dev-gabyfernandes/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-gabyfernandes/dev-gabyfernandes/output/github-contribution-grid-snake.svg">
 </picture>
+-->
