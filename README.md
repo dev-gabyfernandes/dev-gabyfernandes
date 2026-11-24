@@ -2,7 +2,7 @@
 
 **`Beginner Developer`**
 
-Me chamo Gabriela Fernandes, tenho 30 anos e sou formada em Desenvolvimento de Jogos Digitais pelo IESB. Sou apaixonada por tecnologia e tenho grande interesse pela área de programação e desenvolvimento de software. Atualmente, estou ampliando meus conhecimentos e explorando novas possibilidades no universo da tecnologia, buscando aprimorar minhas habilidades e desenvolver projetos que transformem ideias em realidade.
+Me chamo Gabriela Fernandes, tenho 30 anos e sou formada em Desenvolvimento de Jogos Digitais pelo Instituto de Educação Superior de Brasília (IESB). Sou apaixonada por tecnologia e tenho grande interesse pela área de programação e desenvolvimento de software. Atualmente, estou ampliando meus conhecimentos e explorando novas possibilidades no universo da tecnologia, buscando aprimorar minhas habilidades e desenvolver projetos que transformem ideias em realidade.
 
 <p align="left">
 <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
