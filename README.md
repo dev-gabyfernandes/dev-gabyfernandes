@@ -4,37 +4,21 @@
 
 Me chamo Gabriela Fernandes, tenho 30 anos e sou formada em Desenvolvimento de Jogos Digitais pelo Instituto de Educação Superior de Brasília (IESB). Sou apaixonada por tecnologia e tenho grande interesse pela área de programação e desenvolvimento de software. Atualmente, estou ampliando meus conhecimentos e explorando novas possibilidades no universo da tecnologia, buscando aprimorar minhas habilidades e desenvolver projetos que transformem ideias em realidade.
 
+
+### 💌 Conecte-se comigo!
+
 <p align="left">
-<a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-   <img 
-       alt="youtube subscribers" 
-       title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-   />
-</a>
-<a href="https://www.youtube.com/@larissakich">
-   <img 
-       alt="youtube views" 
-       title="Vizualizações no YouTube" 
-       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-   />
-</a> 
-<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-   <img 
-       alt="Total de estrelas" 
-       title="Total de estrelas GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-   />
-</a>
-<a href="https://github.com/Larissakich?tab=followers">
-   <img 
-       alt="Seguidores" 
-       title="Me siga no GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-   />
-</a>
+  <a href="mailto:gaby.onlyjobs@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriela-fernandes-840647449/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" />
+  </a>
+  <a href="https://www.instagram.com/_polarizada/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" />
+  </a>
 </p>
+
 
 ---
 <!-- COMENTADO
